@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+ipykernel
+pandas
+matplotlib
+numpy
+pyspark

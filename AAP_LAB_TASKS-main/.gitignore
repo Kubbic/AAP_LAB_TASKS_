@@ -1,0 +1,21 @@
+# Wykluczenie środowiska wirtualnego venv
+venv/
+
+# Cache i pliki tymczasowe Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Pliki Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pliki systemowe i IDE
+.DS_Store
+.vscode/
+
+# Requirements.txt zostawiamy, aby inni mogli odtworzyć środowisko
+# requirements.txt
+
+# Duże zbiory danych
+otomoto_offers_eng_23-04-2023.csv
